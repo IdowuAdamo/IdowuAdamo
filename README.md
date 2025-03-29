@@ -47,7 +47,7 @@
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stat
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/IdowuAdamo?cardType=github&theme=vue-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IdowuAdamo&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
